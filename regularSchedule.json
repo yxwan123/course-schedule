@@ -1,0 +1,62 @@
+{
+    "timezone": 8,
+    "schedule": [
+        {
+            "date": 3,
+            "time": 15,
+            "type": "placement",
+            "code": "",
+            "name": ""
+        },
+        {
+            "date": 3,
+            "time": 16,
+            "type": "activities",
+            "code": "Campus Trip",
+            "name": ""
+        },
+        {
+            "date": 3,
+            "time": 17,
+            "type": "discussion",
+            "code": "",
+            "name": ""
+        },
+        {
+            "date": 4,
+            "time": 9,
+            "type": "exam",
+            "code": "Math",
+            "name": ""
+        },
+        {
+            "date": 4,
+            "time": 15,
+            "type": "class",
+            "code": "",
+            "name": ""
+        },
+        {
+            "date": 5,
+            "time": 9,
+            "type": "subother",
+            "code": "CS1111 <u><b>C</b></u>",
+            "name": "AI intro",
+            "message": {
+                "EN": "Artificial Intelligence",
+                "CH": "人工智能"
+            }
+        },
+        {
+            "date": 5,
+            "time": 10,
+            "type": "subother",
+            "code": "~",
+            "name": "",
+            "message": {
+                "EN": "Artificial Intelligence",
+                "CH": "人工智能"
+            }
+        }
+    ]
+}
